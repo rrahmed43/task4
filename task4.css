@@ -1,0 +1,96 @@
+body{
+    background-color:#fff;
+    display: block;
+}
+h1{
+    
+    color:rgb(29, 87, 196);
+    text-align: center;
+    font-family:monospace;
+    font-size:1cm;
+}
+
+.all2
+{
+    box-shadow: 5px 5px 5px 5px gray;
+    width: 300px;
+    height : 300px;
+    background-color:white;
+    margin-left: 450px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.para{
+    text-align:center;
+    color:black;
+    padding-top: 10px;
+    font-family: sans-serif;
+}
+.but{
+    text-align:center;
+    padding: 10px;
+   height: 30px;
+  
+}
+#sign{
+    text-align: right;
+}
+#password{
+    text-align: right;
+}
+#but2{
+    background-color: #1877f2;
+    margin-top: 30px;
+    border-radius: 2px;
+    text-align: center;
+    border-style: none;
+    color: white;
+    font-family: 'GE-Flow-Bold', sans-serif;
+
+}
+#li{
+    color: #1877f2;
+    text-align: center;
+    font-size:small
+}
+.or{
+    font-size: xx-small;
+    position: relative;
+}
+.or:before{
+    content:" ";
+  display: block;
+  height: 1px;
+  width: 130px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  background: black;
+
+}
+.or:after{
+    content:" ";
+    display: block;
+    height: 1px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    background: black;
+}
+
+#but3{
+    background-color:#42b72a;
+   margin-bottom: 70px;
+    border-radius: 2px;
+    text-align: center;
+    border-style: none;
+    color: white;
+    font-family: 'GE-Flow-Bold', sans-serif;
+
+}
+
+
